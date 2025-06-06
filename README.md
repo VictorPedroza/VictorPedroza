@@ -3,7 +3,7 @@
 **`Desenvolvedor Full-Stack`**
 
 Me chamo Victor Alexandre Carvalho Pedroza, tenho 18 anos. Sou natural de Guarulhos, Conclui o Ensino Médio Técnico Profissionalizante em Análise e Desenvolvimento pela Proz Educação adjunto a escola Rógerio Lazaro Toccheton. <br/>
-Sou um apaixonado por tecnologia e inovação, com ênfase em me tornar um desenvolvedor full-stack e analista de sistemas. Tenho habilidades em programação, com Python e continua minha evolução na área de desenvolvimento back-end e análise de sistemas.
+Sou um apaixonado por tecnologia e inovação, com ênfase em me tornar um desenvolvedor full-stack e analista de sistemas. Tenho habilidades em programação, com Python e continua minha evolução na área de desenvolvimento e análise de sistemas.
 
 ### 🤖 Linguagens e Tecnologias
 
